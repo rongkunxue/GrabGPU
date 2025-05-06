@@ -5,17 +5,17 @@
 
 **CUDA 10.1:**  
 ```shell
-wget https://github.com/godweiyang/GrabGPU/releases/download/v1.0.1/gg_cu101
+wget https://github.com/rongkunxue/GrabGPU/releases/download/v1.0.1/gg_cu101
 ```
 
 **CUDA 11.0:**  
 ```shell
-wget https://github.com/godweiyang/GrabGPU/releases/download/v1.0.1/gg_cu110
+wget https://github.com/rongkunxue/GrabGPU/releases/download/v1.0.1/gg_cu110
 ```
 
 **CUDA 12.1:**  
 ```shell
-wget https://github.com/godweiyang/GrabGPU/releases/download/v1.0.1/gg_cu121
+wget https://github.com/rongkunxue/GrabGPU/releases/download/v1.0.1/gg_cu121
 ```
 
 ## 如果你的 CUDA 版本不适配，请自行编译
