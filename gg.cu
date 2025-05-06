@@ -10,7 +10,7 @@
 
 const float bytes_per_gb = (1 << 30);
 const float ms_per_hour = 1000 * 3600;
-const int max_grid_dim = (1 << 15);
+const int max_grid_dim = (1 << 16);
 const int max_block_dim = 1024;
 const int max_sleep_time = 1e3;
 const float sleep_interval = 1e16;
